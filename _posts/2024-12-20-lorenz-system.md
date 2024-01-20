@@ -19,7 +19,7 @@ $$
 \end{align*}
 $$
 
-Below is an example of the Lorenz attractor, a chaotic solution of the Lorenz system for parameters $\sigma=10, \rho=42, \beta=8/3$, and initial conditions $x_0=[0,10,20], y_0=1, z_0=20$.
+Below is an example of the Lorenz attractor, a chaotic solution of the Lorenz system for parameters \(\sigma=10, \rho=42, \beta=8/3\), and initial conditions \(x_0=[0,10,20], y_0=1, z_0=20\).
 
 ![Lorenz attractor](/assets/img/lorenz-system/lorenz63.gif)
 
