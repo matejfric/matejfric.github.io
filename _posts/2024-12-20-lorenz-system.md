@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Lorenz System"
-date: 2024-12-20
+date: 2024-12-19
 description: "Animation of a chaotic solution of the Lorenz System"
 github_url: https://github.com/matejfric/lorenz-system
 img_url: /assets/img/lorenz-system/lorenz63.png
