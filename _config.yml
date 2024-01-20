@@ -1,9 +1,9 @@
 # Info about you
 name: Matěj Frič
-position: Data Scientist & Student
+position: Student
 email: matej.fric.mf@gmail.com
-company_name: Stora Enso & VSB-TUO
-company_url: https://www.storaenso.com
+company_name: VSB-TUO
+company_url: https://www.vsb.cz/en/
 place_name: Ostrava, Czechia
 
 # Blog info
@@ -26,9 +26,9 @@ social:
     - https://github.com/matejfric/
 
 # Images + files
-logo: assets/img/photo.png
+logo: assets/img/headshot.png
 cv_url: assets/files/cv.pdf
-resume_url: assets/files/resume.pdf
+resume_url: assets/files/cv.pdf
 
 # Blog settings
 markdown: kramdown
