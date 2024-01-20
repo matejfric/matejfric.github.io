@@ -233,7 +233,7 @@ body{
 {% endunless %}
 
 /* Large screen widths */
-/* @media print, screen and (min-width: 1240px) {
+@media print, screen and (min-width: 1240px) {
 
   .header {
     position: fixed;
@@ -262,21 +262,21 @@ body{
     left: calc(calc(100% - 350px)/2 - 400px + 350px);
   }
 
-} */
+}
 
 /* Small screen widths */
-/*@media print, screen and (max-width: 1240px) {*/
+@media print, screen and (max-width: 1240px) {*/
 
-.header {
-  width: 100%;
+  .header {
+    width: 100%;
+  }
+
+  div.big_header {
+    display:none;
+  }
+
+  div.small_header {
+    display:flex;
+  }
+
 }
-
-div.big_header {
-  display:none;
-}
-
-div.small_header {
-  display:flex;
-}
-
-/*}*/
