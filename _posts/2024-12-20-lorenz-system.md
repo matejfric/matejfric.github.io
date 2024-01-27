@@ -4,10 +4,11 @@ title: "Lorenz System"
 date: 2024-01-20
 description: "Animation of a chaotic solution of the Lorenz System"
 github_url: https://github.com/matejfric/lorenz-system/
-img_url: /assets/img/lorenz-system/lorenz63.png
+img_url: /assets/img/lorenz-system/lorenz63.gif
 tags: [Chaos Theory]
 ---
 
+<!-- /assets/img/lorenz-system/lorenz63.png -->
 
 The [Lorenz system](https://en.wikipedia.org/wiki/Lorenz_system) is a system of ODEs:
 
